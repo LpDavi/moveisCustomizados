@@ -1,6 +1,6 @@
 # Movéis Customizados
 
-> Projeto construído no programa Explorer da Rocketseat 
+> Web construída no programa Explorer da Rocketseat 
 
 
 ![preview](./.github/preview.jpeg)
